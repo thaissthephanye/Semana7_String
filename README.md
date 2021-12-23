@@ -1,2 +1,2 @@
 # Semana7_String
-Gerador de lista
+Gerador de lista JS
